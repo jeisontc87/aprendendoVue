@@ -1,0 +1,9 @@
+#fotox{
+    width: 20%
+
+}
+
+section.items .amostra.selected{
+    border: 2px solid rgb(29, 134, 233); 
+
+}
